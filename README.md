@@ -1,7 +1,21 @@
 # kaggle-titanic-competition
 This competition's goal is to correctly predict if someone survived the Titanic shipwreck considering other features. 
 
-# Understand nature of the data .info() .describe()
+# Project Planning
+* Understand nature of the data .info() .describe()
+## Data Exploration
+### 1) For numeric data 
+* Made histograms to understand distributions 
+* Corrplot 
+* Pivot table comparing survival rate across numeric variables 
+
+
+### 2) For Categorical Data 
+* Bar charts to understand balance of classes 
+* Pivot tables to understand relationship with survival 
+
+
+
 * Histograms and boxplots 
 * Value counts 
 * Missing data 
