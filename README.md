@@ -1,5 +1,7 @@
 # kaggle-titanic-competition
-This competition's goal is to correctly predict if someone survived the Titanic shipwreck considering other features. 
+This competition's goal is to correctly predict if someone survived the Titanic shipwreck considering other features.
+You can find the dataset and relative information in this link:
+https://www.kaggle.com/c/titanic
 
 # Project Planning
 ## Data Exploration
