@@ -37,3 +37,4 @@ https://www.kaggle.com/c/titanic
 
 # Reference
 *  https://www.youtube.com/watch?v=I3FBJdiExcg
+* https://www.kaggle.com/kenjee/titanic-project-example
