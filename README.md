@@ -2,7 +2,6 @@
 This competition's goal is to correctly predict if someone survived the Titanic shipwreck considering other features. 
 
 # Project Planning
-* Understand nature of the data .info() .describe()
 ## Data Exploration
 ### 1) For numeric data 
 * Made histograms to understand distributions 
