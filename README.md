@@ -50,6 +50,9 @@ After getting the baselines, check if we can improve on the indivdual model resu
 
 ## Play with Basic TensorFlow modeling
 
+## Conclusion
+Harding voting gives the highest ranking in Kaggle
+
 # Reference
 *  https://www.youtube.com/watch?v=I3FBJdiExcg
 * https://www.kaggle.com/kenjee/titanic-project-example
